@@ -1,6 +1,6 @@
 {
     "name": "timegap",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Diff two timestmaps into a short-format string.",
     "main": "index.js",
     "devDependencies": {

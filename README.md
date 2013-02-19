@@ -17,7 +17,7 @@ install
 
 with [npm](http://npmjs.org), do:
 
-    npm install fixed-array
+    npm install timegap
 
 Long(er) Diff Format
 ====================
