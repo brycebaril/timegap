@@ -1,0 +1,25 @@
+{
+    "name": "timegap",
+    "version": "0.1.0",
+    "description": "Diff two timestmaps into a short-format string.",
+    "main": "index.js",
+    "devDependencies": {
+        "tap": ">=0.4.x"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/brycebaril/timegap.git"
+    },
+    "keywords": [
+        "date",
+        "time",
+        "formatting"
+    ],
+    "author": {
+        "name": "Bryce Baril",
+        "email": "bryce@ravenwall.com",
+        "url": "http://ravenwall.com"
+    },
+    "license": "MIT",
+    "engine": { "node": ">=0.8" }
+}
