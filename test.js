@@ -1,5 +1,5 @@
 var timegap = require("./index");
-var test = require("tap").test;
+var test = require("tape");
 
 var dates = [
   new Date("2013-02-18T16:41:22.333Z"),
